@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API = "https://me-api-playground-dq35.onrender.com";
+const API = "https://me-api-backend.onrender.com";
 
 
 function App() {
